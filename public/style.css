@@ -1,0 +1,172 @@
+@media only screen and (max-width: 600px){
+    img {
+        width: 400px;
+    }
+}
+@media only screen and (max-width: 400px){
+    img {
+        width: 200px;
+    }
+}
+
+
+
+.new{
+    text-align: center;
+}
+.color{
+    background-color: royalblue;
+    height: 300px;
+    width: auto;
+}
+#nav{
+    
+    border: 1px solid red;
+    border-radius:  10px;
+}
+#heading{
+    text-align: center;
+    color: blue;
+}
+#threading{
+    text-align: center;
+    
+}
+.class{
+    font: 5em; 
+    font-family: cursive;
+    font-size: 0.5em;
+}
+#color{
+    background-color: royalblue;
+ }
+
+.col3{
+    float: right;
+}
+
+.flex {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.para{
+    
+    text-transform: uppercase;
+    text-align: justify;
+    visibility: visible;
+    line-height: 1.5;
+    font-size : 15px; 
+}
+.newnpage{
+    text-align: center;
+}
+
+
+.flex-container{
+    background-color: royalblue;
+}
+
+
+.border{
+ width: 240;
+height: 240;
+}
+.star{
+    
+    color:   #427900!important;
+    border-radius: 2px;
+    padding: 240;
+height: 240;
+
+}
+
+.same{
+    width: 240px;
+    height: 200px;
+background:royalblue;
+text-align: center;
+box-shadow: 15px 15px 15px lightslategray;
+
+}
+img{
+    text-align: center;
+    padding : 10px;
+    
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+.pad{
+    padding: 100px;
+}
+
+.new{
+    display: flex;
+    justify-content: center;
+}
+.sid{
+    float: right;
+    height: 400px;
+    width: 300px;
+    padding: 10px;
+    border: 1px solid slategrey;
+   
+}
+h3{
+    font-size: 40px;
+    color: royalblue;
+}
+.one{
+   padding: 10px;
+
+    
+}
+.two{
+    padding: 10px;
+
+}
+.for{
+    text-align: center;
+
+    color:#427900 ;
+}
+button{
+    
+    text-align: center;
+}
+.space{
+    padding: 100;
+    height: 50px;
+    width: 70px;
+}
+#black{
+    padding:50px;
+    background-color: #808080;
+    height: 300px;
+    border: 100px;
+}
+#footer{
+    background-color: royalblue;
+    height: 25px;
+
+    width: 935px;
+ }
+ #on{
+     background-color: royalblue ;
+ }
+ #colon{
+    float: right; 
+
+      border:solid black 1px;
+      height: 200px;
+      width: 250px;
+ }
+ .container, .we
+  {
+     display: flex;
+     flex-wrap: wrap;
+   
+ }
